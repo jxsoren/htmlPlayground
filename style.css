@@ -1,0 +1,22 @@
+p {
+
+	font-family: Arial;
+	color: blue;
+}
+
+h1 {
+
+	font-family: cursive;
+	color: green;
+}
+
+h2 {
+	font-family: monospace;
+	color:orange;
+}
+
+ol {
+
+	font-family: WingDings;
+	color: red;
+}
