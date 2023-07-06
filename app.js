@@ -23,8 +23,8 @@ if (key in object) {
 const randomNum = Math.random();
 console.log(randomNum)
 
-if (randomNum > 5) {
-	console.log("above 5")
+if (randomNum > 0.5) {
+	console.log("above 0.5")
 } else {
-	console.log("below 5")
+	console.log("below 0.5")
 }
