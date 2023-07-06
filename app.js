@@ -19,3 +19,12 @@ if (key in object) {
 } else{
 	console.log(2)
 }
+
+const randomNum = Math.random();
+console.log(randomNum)
+
+if (randomNum > 5) {
+	console.log("above 5")
+} else {
+	console.log("below 5")
+}
